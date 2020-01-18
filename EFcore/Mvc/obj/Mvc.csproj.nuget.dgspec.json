@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\DotnetCore\\EFcore\\Mvc\\Mvc.csproj": {}
+    "C:\\Projetos\\DotnetCore\\EFcore\\mvc\\Mvc.csproj": {}
   },
   "projects": {
     "C:\\Projetos\\DotnetCore\\EFcore\\Dados\\Dados.csproj": {
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Projetos\\DotnetCore\\EFcore\\Mvc\\Mvc.csproj": {
+    "C:\\Projetos\\DotnetCore\\EFcore\\mvc\\Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotnetCore\\EFcore\\Mvc\\Mvc.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotnetCore\\EFcore\\mvc\\Mvc.csproj",
         "projectName": "Mvc",
-        "projectPath": "C:\\Projetos\\DotnetCore\\EFcore\\Mvc\\Mvc.csproj",
+        "projectPath": "C:\\Projetos\\DotnetCore\\EFcore\\mvc\\Mvc.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotnetCore\\EFcore\\Mvc\\obj\\",
+        "outputPath": "C:\\Projetos\\DotnetCore\\EFcore\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
