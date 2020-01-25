@@ -12,7 +12,9 @@ namespace Dados {
             modelBuilder.Entity<Produto> ().ToTable("Produto");
             modelBuilder.Entity<Produto> ().Property (p => p.Nome).HasMaxLength(50);
             modelBuilder.Entity<Pedido> ().HasKey(p=>p.Numero);
-            modelBuilder.Entity<Pedido> ().Property(p=>p.Data).HasDefaultValueSql("getdate()");
+            modelBuilder.Entity<Pedido> ().Property(p=>p.Data)
+            .IsRequired()
+            .HasDefaultValueSql("getdate()");
 
 
         }
