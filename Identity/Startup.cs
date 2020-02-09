@@ -12,7 +12,7 @@ using Identity.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-
+using Microsoft.AspNetCore.Mvc.Razor;
 namespace Identity
 {
     public class Startup
@@ -34,6 +34,14 @@ namespace Identity
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
            services.AddRazorPages();
+           
+
+
+
+
+           
+
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
