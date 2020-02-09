@@ -61,3 +61,11 @@ C:\Projetos\DotnetCore\Identity\obj\Debug\netcoreapp3.0\Identity.csproj.CopyComp
 C:\Projetos\DotnetCore\Identity\obj\Debug\netcoreapp3.0\Identity.dll
 C:\Projetos\DotnetCore\Identity\obj\Debug\netcoreapp3.0\Identity.pdb
 C:\Projetos\DotnetCore\Identity\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\Microsoft.Build.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\Microsoft.Build.Framework.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\Microsoft.Build.Tasks.Core.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\Microsoft.Build.Utilities.Core.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Projetos\DotnetCore\Identity\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
